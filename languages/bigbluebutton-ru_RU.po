@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-09-13 10:54-0400\n"
+"PO-Revision-Date: 2021-03-18 15:11+0700\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Last-Translator: \n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: admin/partials\n"
+"X-Poedit-SearchPath-1: public/partials\n"
+
+# Admin server settings
+msgid "Rooms"
+msgstr "Комнаты"
+
+msgid "Room Settings"
+msgstr "Настройки комнаты"
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "The server settings explanation."
+msgstr "Объяснение настроек сервера."
+
+msgid "EndPoint"
+msgstr "Сервер"
+
+msgid "Shared Secret"
+msgstr "Общий секрет"
+
+msgid "Example"
+msgstr "Пример"
+
+msgid "Default server settings 1. Default server settings 2."
+msgstr "Настройки сервера по умолчанию 1. Настройки сервера по умолчанию 2."
+
+msgid "Save server settings success message."
+msgstr "Сообщение об успешном сохранении настроек сервера."
+
+msgid "Save server settings bad url error message."
+msgstr "Сообщение об ошибке неверного URL-адреса в настройках сервера."
+
+msgid "Save server settings bad server settings error message."
+msgstr ""
+"Сообщение об ошибке неверных настроек сервера сохранения настроек сервера."
+
+# Admin Room settings
+# Настройки комнаты администратора
+msgid "Add New"
+msgstr "Добавить новое"
+
+msgid "Add New Room"
+msgstr "Добавить новую комнату"
+
+msgid "Edit Room"
+msgstr "Редактировать комнату"
+
+msgid "View Room"
+msgstr "Посмотреть комнату"
+
+msgid "View Rooms"
+msgstr "Посмотреть комнаты"
+
+msgid "Search Rooms"
+msgstr "Поиск комнат"
+
+msgid "No rooms found"
+msgstr "Комнат не найдено"
+
+msgid "No rooms found in trash"
+msgstr "В корзине комнат не найдено"
+
+msgid "All Rooms"
+msgstr "Все комнаты"
+
+msgid "New Room"
+msgstr "Новая комната"
+
+msgid "Room Archives"
+msgstr "Архив комнат"
+
+msgid "Insert into room"
+msgstr "Вставить в комнату"
+
+msgid "Uploaded to this room"
+msgstr "Загружено в эту комнату"
+
+msgid "Filter rooms list"
+msgstr "Отфильтровать список комнат"
+
+msgid "Rooms list navigation"
+msgstr "Навигация по списку комнат"
+
+msgid "Rooms list"
+msgstr "Список комнат"
+
+msgid "Room published"
+msgstr "Комната опубликована"
+
+msgid "Room published privately"
+msgstr "Частная комната опубликована"
+
+msgid "Room reverted to draft"
+msgstr "Комната преобразована в черновик"
+
+msgid "Room scheduled"
+msgstr "Комната запланирована"
+
+msgid "Room updated"
+msgstr "Комната обнавлена"
+
+msgid "Moderator Code"
+msgstr "Код модератора"
+
+msgid "Viewer Code"
+msgstr "Код слушателя"
+
+msgid "Recordable"
+msgstr "Записать"
+
+msgid "true"
+msgstr "true"
+
+msgid "false"
+msgstr "false"
+
+# Room description
+msgid "Join"
+msgstr "Присоединиться"
+
+msgid "Wait for Moderator"
+msgstr "Ждите модератора"
+
+# Recordings description
+msgid "Meeting"
+msgstr "Встреча"
+
+msgid "Recording"
+msgstr "Запись"
+
+msgid "Recordings"
+msgstr "Записи"
+
+msgid "Manage"
+msgstr "Управлять"
+
+msgid "Expand recordings"
+msgstr "Развернуть записи"
+
+msgid "Collapse recordings"
+msgstr "Свернуть записи"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Presentation"
+msgstr "Просмотреть"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Protected"
+msgstr "Защищено"
+
+msgid "Unprotected"
+msgstr "Не защищено"
+
+# Migration Error Messages
+msgid "Failed to import the room, %s."
+msgstr "Не удалось импортировать комнату, %s."
+
+msgid "Not all rooms were able to be imported to the new version."
+msgstr "Не все комнаты можно было импортировать в новую версию."
+
+msgid "Not all room logs were able to be imported to the new version."
+msgstr "Не все логи комнат можно было импортировать в новую версию."
+
+# Error messages
+msgid "The form has expired or is invalid. Please try again."
+msgstr ""
+"Срок действия формы истёк или она недействительна. Пожалуйста, попробуйте "
+"ещё раз."
+
+msgid ""
+"You do not have permission to enter the room. Please request permission."
+msgstr ""
+"У вас нет разрешения войти в комнату. Пожалуйста, запросите разрешение."
+
+msgid "The access code you have entered is incorrect. Please try again."
+msgstr "Введённый вами код доступа неверен. Пожалуйста, попробуйте ещё раз."
+
+msgid ""
+"It is currently not possible to create rooms on the server. Please contact "
+"support for help."
+msgstr ""
+"В настоящее время невозможно создать комнаты на сервере. Обратитесь в службу "
+"поддержки за помощью."
+
+msgid ""
+"BigBlueButton works best with the heartbeat API enabled. Please enable it."
+msgstr ""
+"BigBlueButton лучше всего работает с включённым API heartbeat. Пожалуйста, "
+"включите его."
+
+msgid "The token: %s is not associated with a published room."
+msgstr "Токен: %s не связан с опубликованной комнатой."
+
+msgid "The token: %s is not associated with an existing room."
+msgstr "Токен: %s не связан с существующей комнатой."
+
+msgid ""
+"This user does not have permission to display any rooms in a shortcode or "
+"widget."
+msgstr ""
+"У этого пользователя нет разрешения на отображение комнат в шорткоде или "
+"виджете."
+
+msgid "The room linked to this resource is not configured correctly."
+msgstr "Комната, связанная с этим ресурсом, настроена неправильно."
+
+# Public strings
+msgid "Access Code"
+msgstr "Код доступа"
+
+msgid "This room does not currently have any recordings."
+msgstr "В этой комнате в настоящее время нет записей."
+
+msgid ""
+"The meeting has not started yet. You will be automatically redirected to the "
+"meeting when it starts."
+msgstr ""
+"Встреча ещё не началась. Вы будете автоматически перенаправлены на встречу, "
+"когда она начнётся."
+
+msgid ""
+"The meeting has not started yet. Please wait for a moderator to start the "
+"meeting before joining."
+msgstr ""
+"Встреча ещё не началась. Подождите, пока модератор начнёт встречу, прежде "
+"чем присоединяться."
+
+# Widget strings
+msgid "Room selection"
+msgstr "Выбор комнаты"
+
+msgid "Displays a BigBlueButton login form."
+msgstr "Отображает форму входа в систему BigBlueButton."
+
+msgid "There are no rooms in the selection."
+msgstr "В выборе нет комнат."
